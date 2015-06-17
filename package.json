@@ -1,0 +1,11 @@
+{
+  "name": "random-time",
+  "version": "0.0.1",
+  "description": "Random Time is a simple JSON API that will return a random time.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Turner",
+  "license": "MIT"
+}
